@@ -1,5 +1,4 @@
 # TaskManagementSystem
-# Task Management System
 
 ## Problem Statement
 
