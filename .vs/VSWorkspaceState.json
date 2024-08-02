@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TaskFlow",
+    "\\TaskFlow.Application",
+    "\\TaskFlow.Application\\UpdateWorkItem"
+  ],
+  "SelectedNode": "\\TaskFlow.Application\\UpdateWorkItem\\UpdateWorkItemCommandHandler.cs",
+  "PreviewInSolutionExplorer": false
+}

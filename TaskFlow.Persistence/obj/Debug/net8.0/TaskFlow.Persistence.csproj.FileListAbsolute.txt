@@ -1,0 +1,17 @@
+C:\Users\nandu\source\repos\Task Management System\TaskFlow.Persistence\bin\Debug\net8.0\TaskFlow.Persistence.deps.json
+C:\Users\nandu\source\repos\Task Management System\TaskFlow.Persistence\bin\Debug\net8.0\TaskFlow.Persistence.dll
+C:\Users\nandu\source\repos\Task Management System\TaskFlow.Persistence\bin\Debug\net8.0\TaskFlow.Persistence.pdb
+C:\Users\nandu\source\repos\Task Management System\TaskFlow.Persistence\bin\Debug\net8.0\TaskFlow.Domain.dll
+C:\Users\nandu\source\repos\Task Management System\TaskFlow.Persistence\bin\Debug\net8.0\TaskFlow.Domain.pdb
+C:\Users\nandu\source\repos\Task Management System\TaskFlow.Persistence\obj\Debug\net8.0\TaskFlow.Persistence.csproj.AssemblyReference.cache
+C:\Users\nandu\source\repos\Task Management System\TaskFlow.Persistence\obj\Debug\net8.0\TaskFlow.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandu\source\repos\Task Management System\TaskFlow.Persistence\obj\Debug\net8.0\TaskFlow.Persistence.AssemblyInfoInputs.cache
+C:\Users\nandu\source\repos\Task Management System\TaskFlow.Persistence\obj\Debug\net8.0\TaskFlow.Persistence.AssemblyInfo.cs
+C:\Users\nandu\source\repos\Task Management System\TaskFlow.Persistence\obj\Debug\net8.0\TaskFlow.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\nandu\source\repos\Task Management System\TaskFlow.Persistence\obj\Debug\net8.0\TaskFlow.894F3C29.Up2Date
+C:\Users\nandu\source\repos\Task Management System\TaskFlow.Persistence\obj\Debug\net8.0\TaskFlow.Persistence.dll
+C:\Users\nandu\source\repos\Task Management System\TaskFlow.Persistence\obj\Debug\net8.0\refint\TaskFlow.Persistence.dll
+C:\Users\nandu\source\repos\Task Management System\TaskFlow.Persistence\obj\Debug\net8.0\TaskFlow.Persistence.pdb
+C:\Users\nandu\source\repos\Task Management System\TaskFlow.Persistence\obj\Debug\net8.0\ref\TaskFlow.Persistence.dll
+C:\Users\nandu\source\repos\Task Management System\TaskFlow.Persistence\bin\Debug\net8.0\TaskFlow.Persistence.runtimeconfig.json
+C:\Users\nandu\source\repos\Task Management System\TaskFlow.Persistence\obj\Debug\net8.0\TaskFlow.Persistence.genruntimeconfig.cache
